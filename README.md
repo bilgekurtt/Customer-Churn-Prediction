@@ -4,7 +4,7 @@ A machine learning web application that predicts whether a telecom customer is l
 
 ## Overview
 
-Given a customer's account details — such as tenure, contract type, monthly charges, and subscribed services — the app predicts the probability that the customer will cancel their subscription. The model was trained on a real-world telecom dataset of ~7,000 customers and achieves a ROC-AUC of 0.84.
+Given a customer's account details such as tenure, contract type, monthly charges, and subscribed services; the app predicts the probability that the customer will cancel their subscription. The model was trained on a real-world telecom dataset of ~7,000 customers and achieves a ROC-AUC of 0.84.
 
 ## How It Works
 
